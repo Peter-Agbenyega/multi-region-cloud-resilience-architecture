@@ -1,0 +1,7 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+*.auto.tfvars
+*.auto.tfvars.json
+azure-credentials.json
